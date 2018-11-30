@@ -1,0 +1,25 @@
+Wine quality breakdown by chemical composition
+Wine Quality, Red - https://www.kaggle.com/danielpanizzo/wine-quality#wineQualityReds.csv 
+Wine Quality, White - https://www.kaggle.com/danielpanizzo/wine-quality#wineQualityWhites.csv 
+
+Will use Red Wine Quality and White Wine Quality datasets.  Includes data on: 
+Fixed acidity 
+Volatile acidity 
+Citric acid 
+Residual sugar 
+Chlorides 
+Free sulfur dioxide 
+Total sulfur dioxide 
+Density 
+pH 
+Sulphates 
+Alcohol 
+Quality 
+
+We will: 
+Intro into wine 
+Review variables 
+Analyze how most of these wines fall within each of these variables
+Red wine vs. white wines, which variables are the most different 
+Which variables have biggest effect on quality? 
+Maybe we can make something that does a linear regression and you can input all those variable and it would give an estimate quality? 
